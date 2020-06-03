@@ -1,6 +1,5 @@
-# Text-Mining
 
-## Goal:
+## Project objective:
 To identify quality of answers from a Health-related Community-based Question Answering(HCQA) platform- Yahoo! Answers
 
 ## About data:
