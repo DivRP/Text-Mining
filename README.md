@@ -3,7 +3,7 @@
 To identify quality of answers from a Health-related Community-based Question Answering(HCQA) platform- Yahoo! Answers
 
 ## About data:
-71519 records with Pro and nonPro answers for questions hat are categorized into 21 health-related topics ranging from women's health to injuries and diseases
+71519 records with Pro and nonPro answers for questions that are categorized into 21 health-related topics ranging from women's health to injuries and diseases
 
 ## Learning objectives and methodology:
   1. Learn how Text Classification is used in an end-to-end scenario per the Research Paper provided
